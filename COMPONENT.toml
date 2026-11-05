@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-theme-mdm"
+tier = 3
+description = "Display manager login themes and HTML5/WebKit greeter skin engine"
+contracts = ['theme-mdm', 'greeter-theme-engine', 'html5-greeter-loader']
+upstream_inspirations = ['https://github.com/linuxmint/mdm-themes']
